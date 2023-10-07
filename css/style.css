@@ -1107,7 +1107,6 @@ body {
     height: 60px;
     border-radius: 50%;
     position: absolute;
-    /* transform: translate(56px, -47px); */
     top: 90px;
     left: calc(50% + 26px);
   }
