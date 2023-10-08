@@ -19,7 +19,7 @@ $('.logo, .header__link, .header__icon').on('click', function (event) {
 window.onscroll = function() {scrollFunction()};
 
 function scrollFunction() {
-  let scrollPos= 0;
+  let scrollPos= 100;
   let header__menu = document.querySelector('.header__menu');
 
 if(document.body.scrollTop > scrollPos ||
