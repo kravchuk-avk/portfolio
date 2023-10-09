@@ -109,6 +109,7 @@ body {
   width: 100%;
   padding: 75px 15px 15px;
   width: 100%;
+  z-index: 1;
   transition: padding 1.5s ease;
 }
 
@@ -765,7 +766,6 @@ body {
   }
 
   .header__menu {
-    justify-content: space-between;
     padding: 10px 15px;
   }
 
